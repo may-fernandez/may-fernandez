@@ -15,7 +15,7 @@
 <div align="left">
   <h3>Skills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="auto" alt="javascript logo"  />
-  <img width="12px" />
+  <img width="5px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="auto" alt="react logo"  />
   <img width="12px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="auto" alt="html5 logo"  />
